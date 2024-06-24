@@ -23,6 +23,9 @@
         <f:textbox />
     </f:entry>
     <f:advanced>
+        <f:entry title="${%DeleteRemotePath}" field="deleteRemotePath">
+            <f:textbox />
+        </f:entry>
         <f:entry title="${%MaxRetries}" field="maxRetries">
             <f:textbox />
         </f:entry>
